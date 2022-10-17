@@ -1,0 +1,261 @@
+
+
+body{
+    margin: 0;
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
+
+
+}
+.topgreen{
+    background-color: #000;
+    min-height: 10px;
+}
+
+.containerflex{
+    background-color: #f7f7f7;
+    min-height: 120px;
+    
+
+}
+
+.logoandlocator{
+    padding: 20px;
+    padding-left: 45px;
+    padding-right: 40px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.locator{
+  cursor: pointer;
+}
+
+.locator:hover{
+  color:#006431;
+}
+
+.material-icons{
+  color: #006431;
+  font-family: 'Material Icons';
+  padding-right: 10px;
+
+
+}
+
+.logo{
+    max-width: 100%;
+    height: auto;
+    vertical-align: bottom;
+    font-family: ;
+}
+
+.topmenu{
+    padding: 7px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.menu{
+  font-family: 'Lato', sans-serif;
+  font-size: 13.3px;
+  line-height: 1.136364;
+  letter-spacing: .18em;
+  color: #242221;
+  cursor: pointer;
+  font-weight: 400;
+
+}
+
+.menu:hover{
+  color: white;
+  background-color: black;
+}
+.phoneandcoffee{
+  display: block;  
+  max-height:100%;
+  max-width:100%;
+  height: 560px;
+
+    
+}
+
+.monsoon{
+  display: block;  
+  max-height:100%;
+  max-width:100%;
+  height: 560px;
+
+}
+
+.tropical{
+    display: block;  
+  max-height:100%;
+  max-width:100%;
+  height: 560px;
+
+}
+
+
+
+.scoops{
+    display: block;  
+  max-height:100%;
+  max-width:100%;
+  height: 560px;
+  
+}
+
+.mobile{
+
+    display: block;  
+  max-height:100%;
+  max-width:100%;
+  height: 560px;
+  
+}
+
+.flipkart{
+
+    display: block;  
+  max-height:100%;
+  max-width:100%;
+  height: 560px;
+  
+
+}
+
+
+
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.photosflex{
+    display: flex;
+    flex-direction:column
+}
+
+.flex-row{
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 380px;
+  display: flex;
+  flex-direction: row;
+  justify-content:space-evenly;
+  font-family: NoSpace;
+  text-align: center;
+}
+
+.delight{
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.letusdelightboth{
+
+
+  padding: 50px;
+  height: 136px;
+  margin-left: 8.33333%;
+  text-align: left;
+  font-size: 17px;
+  vertical-align: middle;
+  font-family: Lato,Arial, Helvetica, sans-serif;
+  margin-left: 109.234px;
+
+  
+}
+
+.letusdelight{
+  font-size:larger;
+  font-weight: 1200;
+}
+
+.delicious{
+  font-weight:bolder
+}
+
+
+.opportunityflex{
+  padding-top: 70px;
+  padding-bottom: 70px;
+  padding-left: 20px;
+  padding-right: 20px;
+display: flex;
+justify-content:space-around;
+}
+
+.opportunityhd{
+  padding: 100px;
+}
+
+.opportunity-h{
+  font-size:smaller;
+}
+
+.firstfooter{
+  display: flex;
+  height: 73px;
+  padding-top: 35px;
+  border: 3px;
+  background-color: #f0f0f0;
+  border-bottom: 3px solid #fff;
+  border-top: 3px solid #fff;
+}
+
+.social{
+  height: 31px;
+  margin-left: 35px;
+
+
+}
+
+.secondfooter{
+  display: flex;
+  height: 166px;
+  padding-top: 80px;
+  background-color: #f0f0f0;
+  color: #382f2d;
+  
+}
+
+.aboutus{
+  padding-left: 40px;
+
+}
+
+.customer{
+  padding-left: 120px;
+}
+
+.quicklinks{
+  padding-left: 40px;
+}
+
+.verticalimage{
+  height: 160px;
+  padding-left:50%;
+
+}
+
+.thridfooter{
+  margin: 0;  
+  display: flex;
+  flex-direction: column;
+  background-color: #f0f0f0;
+  color: #382f2d;
+  padding-left: 40px;
+  padding-bottom: 50px;
+  font-size: 14px;
+
+}
+
+.copyright{
+  font-size: 8px;
+}
